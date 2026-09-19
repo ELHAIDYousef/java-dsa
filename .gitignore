@@ -1,0 +1,9 @@
+theodo/
+out/
+build/
+.gradle/
+target/
+!**/javaBasics/target/
+*.class
+*.iml
+.idea/
